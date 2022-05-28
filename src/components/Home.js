@@ -1,5 +1,5 @@
 import React from 'react';
-import Projects from './Projects';
+import Projects from './Projects.js'
 import DataProjects from '../Assets/name-projects'
 import './Home.css'
 
