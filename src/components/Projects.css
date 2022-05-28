@@ -1,0 +1,14 @@
+.projects{
+    border: 1px black solid;
+    margin: 30px;
+    padding: 10px;
+    width: 260px;
+    border-radius: 10px;
+}
+
+.projects a{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100px;
+}
