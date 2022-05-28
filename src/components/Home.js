@@ -12,7 +12,6 @@ class Home extends React.Component{
                 <h1>Projetos Realizados</h1>
                 <div className='all-projects'>
 
-                
                 {DataProjects.map(project=>(
                     <Projects projetos={project}/>
                 ))}
